@@ -4,5 +4,4 @@ venv/
 .ipynb_checkpoints/
 *.jpg
 de
-.vscode/
 .idea/
