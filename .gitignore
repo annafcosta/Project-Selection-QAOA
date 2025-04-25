@@ -1,0 +1,8 @@
+.venv/
+venv/
+.idea
+.ipynb_checkpoints/
+*.jpg
+de
+.vscode/
+.idea/
